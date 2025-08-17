@@ -53,5 +53,5 @@ python index.py
 
 # once setup complete to run again (server):
 
-cd C:\path\to\your\project
-python index.py
+- cd C:\path\to\your\project 
+- python index.py
